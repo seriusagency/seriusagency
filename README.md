@@ -80,16 +80,3 @@
 -->
 
 
-<!--
-# Coming soon 🚀
-
-
-
-<p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=">
-</a>
-</p>
--->
-
-# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
